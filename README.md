@@ -969,7 +969,13 @@ fig.show()
 
 ![png](img/output_20_0.png)
 
+**Global Maximum Infection Rate**
 
+- Description: The chart displays the maximum infection rate for various countries.
+- Insights:
+	- The U.S. has the highest maximum infection rate, followed by the United Kingdom, Turkey, and South Korea.
+	- The infection rates are plotted on a logarithmic scale, which helps in visualizing the differences across a wide range of values.
+	- There is a significant drop in the maximum infection rate as we move from the countries with the highest rates to those with the lowest rates.
 
 ### COVID19 pandemic lockdown in Italy 
 On 9 March 2020, the government of Italy under Prime Minister Giuseppe Conte imposed a national quarantine, restricting the movement of the population except for necessity, work, and health circumstances, in response to the growing pandemic of COVID-19 in the country. <a href="https://en.wikipedia.org/wiki/COVID-19_pandemic_lockdown_in_Italy#:~:text=On%209%20March%202020%2C%20the,COVID%2D19%20in%20the%20country.">source</a>
