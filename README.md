@@ -1733,3 +1733,8 @@ fig.show()
 	- There is a sharp increase in infection rates leading up to the lockdown.
 	- Post-lockdown, the infection rate drops significantly, indicating the effectiveness of the lockdown measures.
 	- The death rate remains relatively low throughout the period, showing a slight increase during the peak of the infection rate but stabilizing quickly.
+
+
+### Conclusion
+
+These charts collectively provide a comprehensive view of the global impact of COVID-19, highlighting the variation in infection and death rates across countries, the effectiveness of lockdown measures, and the temporal progression of the pandemic. The data visualization techniques used, such as logarithmic scales and animated maps, enhance the understanding of the pandemic's dynamics.
