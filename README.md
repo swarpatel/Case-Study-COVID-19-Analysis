@@ -440,6 +440,13 @@ fig.show()
     
 ![png](img/output_15_0.png)
     
+**Global Spread of COVID-19**
+
+- Description: The map animation shows the spread of confirmed COVID-19 cases globally over time.
+- Insights:
+	- The U.S. and India show the highest number of confirmed cases, followed by other countries.
+	- The progression of the pandemic can be seen spreading from country to country, with different regions experiencing peaks at different times.
+	- The color gradient from yellow to purple effectively shows the density of confirmed cases.
 
 
 #### Global deaths of Covid19
@@ -462,7 +469,12 @@ fig.show()
     
 ![png](img/output_17_0.png)
     
+**Global Deaths of COVID-19**
 
+- Description: The map animation shows the spread of COVID-19 deaths globally over time.
+- Insights:
+	- Similar to the confirmed cases, the U.S. shows a high number of deaths, followed by Brazil and India.
+	- The map helps in visualizing the mortality impact of COVID-19 across different regions.
 
 #### Let's Visualize how intensive the Covid19 Transmission has been in Australia over time using Infection rate
 
@@ -780,7 +792,13 @@ px.line(df_australia, x= 'Date', y = ['Confirmed', 'Infection Rate'])
 
 ![png](img/output_19_0.png)
 
+**COVID-19 Infection Rate in Australia**
 
+- Description: The chart shows the infection rate and the number of confirmed cases in Australia over time.
+- Insights:
+	- A sharp increase in the infection rate can be observed from early 2022.
+	- The confirmed cases also show a steep rise corresponding to the increase in the infection rate.
+	- The early part of the pandemic shows relatively low infection rates, indicating effective initial control measures.
 
 
 ```python
@@ -1369,7 +1387,14 @@ fig.show()
 
 ![png](img/output_21_0.png)
 
+**Before and After Lockdown in Italy**
 
+- Description: The chart shows the infection and death rates in Italy before and after the lockdown.
+- Insights:
+	- A sharp increase in the infection rate can be observed just before the lockdown was implemented.
+	- The death rate also increases but not as steeply as the infection rate.
+	- Post-lockdown, there is a noticeable decrease in the infection rate, followed by a gradual decline in the death rate.
+	- The effectiveness of the lockdown can be seen in the significant reduction in both rates after its implementation.
 
 ### COVID19 pandemic lockdown in Germany 
 Lockdown was started in Freiburg, Baden-Württemberg and Bavaria on 20 March 2020. Three days later, it was expanded to the whole of Germany
@@ -1701,3 +1726,10 @@ fig.show()
 ```
 ![png](img/output_22_0.png)
 
+**Before and After Lockdown in Germany**
+
+- Description: Similar to the chart for Italy, this one shows the infection and death rates in Germany.
+- Insights:
+	- There is a sharp increase in infection rates leading up to the lockdown.
+	- Post-lockdown, the infection rate drops significantly, indicating the effectiveness of the lockdown measures.
+	- The death rate remains relatively low throughout the period, showing a slight increase during the peak of the infection rate but stabilizing quickly.
